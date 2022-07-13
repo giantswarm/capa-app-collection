@@ -1,0 +1,3 @@
+generators:
+- capa-iam-operator.yaml
+- happa.yaml
