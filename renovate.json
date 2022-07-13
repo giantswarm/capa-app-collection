@@ -2,7 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "labels": ["dependencies"],
   "dependencyDashboard": true,
   "ignorePaths": [
     ".github/workflows/zz_generated.*",
@@ -10,8 +9,7 @@
   ],
   "ignoreDeps": [
     "architect",
-    "zricethezav/gitleaks-action",
-    "actions/setup-go"
+    "zricethezav/gitleaks-action"
   ],
-  "schedule": [ "after 6am on thursday" ]
+  "schedule": [ "after 9am on thursday" ]
 }

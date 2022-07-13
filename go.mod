@@ -1,3 +1,3 @@
-module github.com/giantswarm/REPOSITORY_NAME
+module github.com/giantswarm/gcp-app-collection
 
-go 1.18
+go 1.14
