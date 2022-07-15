@@ -1,3 +1,4 @@
 generators:
 - capa-iam-operator.yaml
 - prometheus-meta-operator.yaml
+- trivy-app.yaml
