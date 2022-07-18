@@ -1,5 +1,6 @@
 generators:
 - capa-iam-operator.yaml
+- dashboards.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
 - trivy-app.yaml
