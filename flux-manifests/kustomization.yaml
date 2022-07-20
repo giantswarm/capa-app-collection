@@ -1,5 +1,6 @@
 generators:
 - capa-iam-operator.yaml
+- chart-operator.yaml
 - dashboards.yaml
 - happa.yaml
 - prometheus-meta-operator.yaml
