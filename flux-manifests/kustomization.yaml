@@ -6,3 +6,4 @@ generators:
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
 - trivy-app.yaml
+- vertical-pod-autoscaler-app.yaml
