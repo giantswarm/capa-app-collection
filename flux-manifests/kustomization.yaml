@@ -2,6 +2,7 @@ generators:
 - capa-iam-operator.yaml
 - chart-operator.yaml
 - dashboards.yaml
+- dex-app.yaml
 - happa.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
