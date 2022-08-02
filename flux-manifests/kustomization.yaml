@@ -5,6 +5,7 @@ generators:
 - happa.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
+- rbac-operator.yaml
 - starboard-app.yaml
 - trivy-app.yaml
 - vertical-pod-autoscaler-app.yaml
