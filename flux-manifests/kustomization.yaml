@@ -4,6 +4,7 @@ generators:
 - dashboards.yaml
 - dex-app.yaml
 - happa.yaml
+- nginx-ingress-controller-app.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
 - rbac-operator.yaml
