@@ -4,6 +4,7 @@ generators:
 - cluster-api.yaml
 - dashboards.yaml
 - dex-app.yaml
+- dns-operator-aws.yaml
 - happa.yaml
 - nginx-ingress-controller-app.yaml
 - prometheus-meta-operator.yaml
