@@ -1,6 +1,7 @@
 generators:
 - capa-iam-operator.yaml
 - chart-operator.yaml
+- cluster-api.yaml
 - dashboards.yaml
 - dex-app.yaml
 - happa.yaml
