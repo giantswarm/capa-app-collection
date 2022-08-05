@@ -7,6 +7,7 @@ generators:
 - dex-app.yaml
 - dns-operator-aws.yaml
 - encryption-provider-operator.yaml
+- grafana.yaml
 - happa.yaml
 - nginx-ingress-controller-app.yaml
 - organization-operator.yaml
