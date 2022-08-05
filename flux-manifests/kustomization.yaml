@@ -6,6 +6,7 @@ generators:
 - deletion-blocker-operator.yaml
 - dex-app.yaml
 - dns-operator-aws.yaml
+- encryption-provider-operator.yaml
 - happa.yaml
 - nginx-ingress-controller-app.yaml
 - organization-operator.yaml
