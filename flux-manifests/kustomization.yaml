@@ -9,6 +9,7 @@ generators:
 - encryption-provider-operator.yaml
 - grafana.yaml
 - happa.yaml
+- kyverno-policies-dx.yaml
 - kyverno-policies-ux.yaml
 - kyverno-policies.yaml
 - nginx-ingress-controller-app.yaml
