@@ -3,6 +3,7 @@ generators:
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
 - dashboards.yaml
+- deletion-blocker-operator.yaml
 - dex-app.yaml
 - dns-operator-aws.yaml
 - happa.yaml
