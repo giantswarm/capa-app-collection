@@ -1,6 +1,5 @@
 generators:
 - capa-iam-operator.yaml
-- chart-operator.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
 - dashboards.yaml
@@ -8,6 +7,7 @@ generators:
 - dns-operator-aws.yaml
 - happa.yaml
 - nginx-ingress-controller-app.yaml
+- organization-operator.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
 - rbac-operator.yaml
