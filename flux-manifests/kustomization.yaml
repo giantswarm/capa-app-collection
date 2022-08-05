@@ -10,6 +10,7 @@ generators:
 - grafana.yaml
 - happa.yaml
 - nginx-ingress-controller-app.yaml
+- oauth2-proxy.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
 - prometheus-rules.yaml
