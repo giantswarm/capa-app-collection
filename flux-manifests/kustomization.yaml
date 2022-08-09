@@ -13,6 +13,7 @@ generators:
 - kyverno-policies-dx.yaml
 - kyverno-policies-ux.yaml
 - kyverno-policies.yaml
+- kyverno.yaml
 - nginx-ingress-controller-app.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
