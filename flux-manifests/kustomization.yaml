@@ -1,4 +1,5 @@
 generators:
+- athena.yaml
 - capa-iam-operator.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
