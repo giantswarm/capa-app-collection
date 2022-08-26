@@ -23,4 +23,5 @@ generators:
 - prometheus-rules.yaml
 - rbac-operator.yaml
 - trivy-app.yaml
+- trivy-operator.yaml
 - vertical-pod-autoscaler-app.yaml
