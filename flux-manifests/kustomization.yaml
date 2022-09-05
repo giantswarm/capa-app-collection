@@ -2,6 +2,7 @@ generators:
 - app-admission-controller.yaml
 - athena.yaml
 - capa-iam-operator.yaml
+- cert-exporter.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
 - cluster-apps-operator.yaml
