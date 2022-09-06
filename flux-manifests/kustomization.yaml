@@ -1,5 +1,6 @@
 generators:
 - app-admission-controller.yaml
+- app-exporter.yaml
 - athena.yaml
 - capa-iam-operator.yaml
 - cert-exporter.yaml
