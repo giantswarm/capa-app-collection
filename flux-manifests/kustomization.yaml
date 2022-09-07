@@ -19,6 +19,7 @@ generators:
 - kyverno-policies-ux.yaml
 - kyverno-policies.yaml
 - kyverno.yaml
+- metrics-server-app.yaml
 - nginx-ingress-controller-app.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
