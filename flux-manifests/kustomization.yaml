@@ -13,6 +13,7 @@ generators:
 - dex-app.yaml
 - dns-operator-aws.yaml
 - encryption-provider-operator.yaml
+- etcd-backup-operator.yaml
 - grafana.yaml
 - happa.yaml
 - kube-state-metrics.yaml
