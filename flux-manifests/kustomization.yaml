@@ -27,6 +27,7 @@ generators:
 - oauth2-proxy.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
+- prometheus-operator-app.yaml
 - prometheus-rules.yaml
 - rbac-operator.yaml
 - trivy-app.yaml
