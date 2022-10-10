@@ -24,6 +24,7 @@ generators:
 - kyverno.yaml
 - metrics-server-app.yaml
 - nginx-ingress-controller-app.yaml
+- node-operator.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
