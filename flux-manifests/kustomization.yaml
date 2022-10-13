@@ -17,6 +17,7 @@ generators:
 - etcd-backup-operator.yaml
 - grafana.yaml
 - happa.yaml
+- irsa-operator.yaml
 - kube-state-metrics.yaml
 - kyverno-policies-dx.yaml
 - kyverno-policies-ux.yaml
