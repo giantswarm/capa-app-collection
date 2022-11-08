@@ -38,3 +38,4 @@ generators:
 - silence-operator.yaml
 - trivy-app.yaml
 - trivy-operator.yaml
+- trivy.yaml
