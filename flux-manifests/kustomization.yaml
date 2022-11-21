@@ -6,6 +6,7 @@ generators:
 - aws-network-topology-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
+- capi-garbage-collector.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
 - cluster-apps-operator.yaml
