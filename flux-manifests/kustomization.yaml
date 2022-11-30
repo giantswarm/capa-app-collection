@@ -21,6 +21,7 @@ generators:
 - grafana.yaml
 - happa.yaml
 - irsa-operator.yaml
+- kyverno-policies-connectivity.yaml
 - kyverno-policies-dx.yaml
 - kyverno-policies-observability.yaml
 - kyverno-policies-ux.yaml
