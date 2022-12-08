@@ -2,7 +2,7 @@ api_version: generators.giantswarm.io/v1
 app_catalog: control-plane-test-catalog
 app_destination_namespace: giantswarm
 app_name: aws-vpc-operator
-app_version: 0.1.1-b7dc7acc839adc4baed9bb9c11ecf511cd6fa359
+app_version: 0.1.1-a9ad88d342325f8ade6066639db78a5b00b208fe
 kind: Konfigure
 metadata:
   annotations:
