@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
 
+- Add `aws-resolver-rules-operator`.
 
 [Unreleased]: https://github.com/giantswarm/gcp-app-collection/tree/master
