@@ -4,6 +4,7 @@ generators:
 - app-operator.yaml
 - athena.yaml
 - aws-network-topology-operator.yaml
+- aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
 - capi-garbage-collector.yaml
