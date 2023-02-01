@@ -19,7 +19,6 @@ generators:
 - dns-operator-aws.yaml
 - encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
-- falco-app.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
 - grafana.yaml
