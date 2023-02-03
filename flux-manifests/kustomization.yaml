@@ -31,6 +31,7 @@ generators:
 - kyverno-policies.yaml
 - kyverno.yaml
 - macropower-analytics-panel-server.yaml
+- management-cluster-admission.yaml
 - nginx-ingress-controller-app.yaml
 - node-operator.yaml
 - oauth2-proxy.yaml
