@@ -7,7 +7,6 @@ generators:
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
-- capi-garbage-collector.yaml
 - cluster-api-monitoring.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
