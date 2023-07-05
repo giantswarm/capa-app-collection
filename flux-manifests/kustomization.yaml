@@ -15,7 +15,6 @@ generators:
 - deletion-blocker-operator.yaml
 - dex-app.yaml
 - dex-operator.yaml
-- dns-operator-aws.yaml
 - encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
 - falco.yaml
