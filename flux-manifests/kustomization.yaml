@@ -17,6 +17,7 @@ generators:
 - dex-operator.yaml
 - encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
+- exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
 - grafana.yaml
