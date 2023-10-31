@@ -33,6 +33,7 @@ generators:
 - macropower-analytics-panel-server.yaml
 - nginx-ingress-controller-app.yaml
 - oauth2-proxy.yaml
+- object-storage-operator.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
 - prometheus-remotewrite.yaml
