@@ -46,6 +46,5 @@ generators:
 - sloth-rules.yaml
 - sloth.yaml
 - starboard-exporter.yaml
-- teleport-operator.yaml
 - trivy-operator.yaml
 - trivy.yaml
