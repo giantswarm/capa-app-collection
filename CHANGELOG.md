@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Chang `cluster-api` version to 1.8.3.
 - Remove `node-exporter-app`
+- Remove `teleport-operator`
 
 ### Added
 
