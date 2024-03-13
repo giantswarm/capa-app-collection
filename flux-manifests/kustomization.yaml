@@ -30,6 +30,7 @@ generators:
 - loki.yaml
 - macropower-analytics-panel-server.yaml
 - mimir.yaml
+- mimir-grafana-agent.yaml
 - oauth2-proxy.yaml
 - object-storage-operator.yaml
 - organization-operator.yaml
