@@ -42,6 +42,7 @@ generators:
 - promxy-app.yaml
 - pss-operator.yaml
 - rbac-operator.yaml
+- releases-capa.yaml
 - silence-operator.yaml
 - sloth-rules.yaml
 - sloth.yaml
