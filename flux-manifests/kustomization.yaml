@@ -32,7 +32,6 @@ generators:
 - loki.yaml
 - macropower-analytics-panel-server.yaml
 - mimir.yaml
-- oauth2-proxy.yaml
 - object-storage-operator.yaml
 - observability-operator.yaml
 - organization-operator.yaml
