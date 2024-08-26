@@ -2,7 +2,7 @@ api_version: generators.giantswarm.io/v1
 app_catalog: releases
 app_destination_namespace: giantswarm
 app_name: releases-capa
-app_version: 0.0.0-90c3bfacf6a425e0e79dae4d183929a676e229ae
+app_version: 0.0.0-c6c29b314b172f4ff9d8f12cfdf78f664e8a98f0
 kind: Konfigure
 metadata:
   annotations:
