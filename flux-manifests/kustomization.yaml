@@ -23,6 +23,7 @@ generators:
 - falco.yaml
 - fluent-logshipping-app.yaml
 - grafana.yaml
+- grafana-multi-tenant-proxy.yaml
 - happa.yaml
 - ingress-nginx.yaml
 - irsa-operator.yaml
