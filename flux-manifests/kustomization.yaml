@@ -21,6 +21,7 @@ generators:
 - encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
 - event-exporter-app.yaml
+- exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
 - grafana.yaml
