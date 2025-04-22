@@ -65,7 +65,7 @@ spec:
           - trivy-operator
           - upgrade-schedule-operator
     cluster:
-      name: "${mc_name}"
+      name: "${cluster_name}"
   destination:
     namespace: giantswarm
     naming:
