@@ -1,7 +1,7 @@
 apiVersion: konfigure.giantswarm.io/v1alpha1
 kind: ManagementClusterConfiguration
 metadata:
-  name: example-2
+  name: collection-konfiguration
   namespace: giantswarm
 spec:
   configuration:
