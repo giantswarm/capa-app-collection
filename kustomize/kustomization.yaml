@@ -29,6 +29,7 @@ resources:
 - happa.yaml
 - ingress-nginx.yaml
 - irsa-operator.yaml
+- konfiguration.yaml
 - kube-downscaler.yaml
 - kyverno-policies-connectivity.yaml
 - kyverno-policies-dx.yaml
