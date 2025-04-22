@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: grafana-konfigure
+      name: grafana-konfiguration
       namespace: giantswarm
     secret:
-      name: grafana-konfigure
+      name: grafana-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

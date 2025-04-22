@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: app-exporter-konfigure
+      name: app-exporter-konfiguration
       namespace: giantswarm
     secret:
-      name: app-exporter-konfigure
+      name: app-exporter-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

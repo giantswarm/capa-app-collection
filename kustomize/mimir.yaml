@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: mimir-konfigure
+      name: mimir-konfiguration
       namespace: giantswarm
     secret:
-      name: mimir-konfigure
+      name: mimir-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

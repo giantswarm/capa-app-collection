@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: prometheus-remotewrite-konfigure
+      name: prometheus-remotewrite-konfiguration
       namespace: giantswarm
     secret:
-      name: prometheus-remotewrite-konfigure
+      name: prometheus-remotewrite-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

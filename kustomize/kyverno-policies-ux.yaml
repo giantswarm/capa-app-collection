@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: kyverno-policies-ux-konfigure
+      name: kyverno-policies-ux-konfiguration
       namespace: giantswarm
     secret:
-      name: kyverno-policies-ux-konfigure
+      name: kyverno-policies-ux-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

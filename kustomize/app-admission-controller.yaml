@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: app-admission-controller-konfigure
+      name: app-admission-controller-konfiguration
       namespace: giantswarm
     secret:
-      name: app-admission-controller-konfigure
+      name: app-admission-controller-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

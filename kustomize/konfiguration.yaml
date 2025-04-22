@@ -69,7 +69,7 @@ spec:
   destination:
     namespace: giantswarm
     naming:
-      suffix: konfiguration
+      suffix: "konfiguration"
       useSeparator: true
   reconciliation:
     interval: 1m0s

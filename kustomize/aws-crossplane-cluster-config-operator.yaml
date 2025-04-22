@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: aws-crossplane-cluster-config-operator-konfigure
+      name: aws-crossplane-cluster-config-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: aws-crossplane-cluster-config-operator-konfigure
+      name: aws-crossplane-cluster-config-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

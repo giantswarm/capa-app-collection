@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: cloudnative-pg-konfigure
+      name: cloudnative-pg-konfiguration
       namespace: giantswarm
     secret:
-      name: cloudnative-pg-konfigure
+      name: cloudnative-pg-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: happa-konfigure
+      name: happa-konfiguration
       namespace: giantswarm
     secret:
-      name: happa-konfigure
+      name: happa-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

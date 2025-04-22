@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: capa-iam-operator-konfigure
+      name: capa-iam-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: capa-iam-operator-konfigure
+      name: capa-iam-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

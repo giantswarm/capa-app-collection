@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: fluent-logshipping-app-konfigure
+      name: fluent-logshipping-app-konfiguration
       namespace: giantswarm
     secret:
-      name: fluent-logshipping-app-konfigure
+      name: fluent-logshipping-app-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

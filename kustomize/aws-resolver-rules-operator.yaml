@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: aws-resolver-rules-operator-konfigure
+      name: aws-resolver-rules-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: aws-resolver-rules-operator-konfigure
+      name: aws-resolver-rules-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

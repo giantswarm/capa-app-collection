@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: deletion-blocker-operator-konfigure
+      name: deletion-blocker-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: deletion-blocker-operator-konfigure
+      name: deletion-blocker-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: cluster-apps-operator-konfigure
+      name: cluster-apps-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: cluster-apps-operator-konfigure
+      name: cluster-apps-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

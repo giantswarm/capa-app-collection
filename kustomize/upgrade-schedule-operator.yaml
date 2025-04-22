@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: upgrade-schedule-operator-konfigure
+      name: upgrade-schedule-operator-konfiguration
       namespace: giantswarm
     secret:
-      name: upgrade-schedule-operator-konfigure
+      name: upgrade-schedule-operator-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true

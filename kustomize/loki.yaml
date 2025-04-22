@@ -11,10 +11,10 @@ spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: loki-konfigure
+      name: loki-konfiguration
       namespace: giantswarm
     secret:
-      name: loki-konfigure
+      name: loki-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true
