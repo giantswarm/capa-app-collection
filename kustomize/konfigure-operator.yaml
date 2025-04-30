@@ -18,6 +18,6 @@ spec:
       namespace: giantswarm
   kubeConfig:
     inCluster: true
-  name: konfigure-operator-operator
+  name: konfigure-operator
   namespace: giantswarm
   version: 0.4.0
