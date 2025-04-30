@@ -29,6 +29,7 @@ generators:
 - happa.yaml
 - ingress-nginx.yaml
 - irsa-operator.yaml
+- konfigure-operator.yaml
 - kube-downscaler.yaml
 - kyverno-policies-connectivity.yaml
 - kyverno-policies-dx.yaml
