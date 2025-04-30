@@ -39,6 +39,7 @@ spec:
           - happa
           - ingress-nginx
           - irsa-operator
+          - konfigure-operator
           - kube-downscaler
           - kyverno-policies-connectivity
           - kyverno-policies-dx
