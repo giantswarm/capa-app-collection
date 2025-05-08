@@ -62,6 +62,7 @@ spec:
           - sloth-rules
           - starboard-exporter
           - teleport-operator
+          - teleport-tbot
           - trivy
           - trivy-operator
           - upgrade-schedule-operator
