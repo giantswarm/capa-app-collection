@@ -21,3 +21,5 @@ spec:
   name: cluster-api
   namespace: giantswarm
   version: 3.0.1
+app_catalog: control-plane-catalog
+app_version: 3.0.1

@@ -21,3 +21,5 @@ spec:
   name: cluster-api-provider-aws
   namespace: giantswarm
   version: 2.30.2
+app_catalog: control-plane-catalog
+app_version: 2.30.0
