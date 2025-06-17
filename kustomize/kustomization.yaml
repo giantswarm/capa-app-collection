@@ -4,7 +4,6 @@ resources:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
-- aws-crossplane-cluster-config-operator.yaml
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
