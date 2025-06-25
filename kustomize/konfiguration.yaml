@@ -35,6 +35,7 @@ spec:
           - exception-recommender
           - falco
           - fluent-logshipping-app
+          - gateway-api-bundle
           - grafana
           - happa
           - ingress-nginx

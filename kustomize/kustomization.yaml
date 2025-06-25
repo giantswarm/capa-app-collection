@@ -24,6 +24,7 @@ resources:
 - exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
+- gateway-api-bundle.yaml
 - grafana.yaml
 - happa.yaml
 - ingress-nginx.yaml
