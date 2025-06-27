@@ -14,7 +14,6 @@ spec:
           - app-exporter
           - app-operator
           - athena
-          - aws-crossplane-cluster-config-operator
           - aws-resolver-rules-operator
           - aws-vpc-operator
           - capa-iam-operator
