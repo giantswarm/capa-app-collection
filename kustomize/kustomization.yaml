@@ -28,6 +28,7 @@ resources:
 - happa.yaml
 - ingress-nginx.yaml
 - irsa-operator.yaml
+- keda.yaml
 - konfiguration.yaml
 - konfigure-operator.yaml
 - kube-downscaler.yaml
