@@ -1,0 +1,7 @@
+apiVersion: application.giantswarm.io/v1alpha1
+kind: App
+metadata:
+  name: app-operator
+  namespace: giantswarm
+spec:
+  version: 6.6.6
