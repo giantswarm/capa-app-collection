@@ -1,0 +1,23 @@
+apiVersion: application.giantswarm.io/v1alpha1
+kind: App
+metadata:
+  annotations:
+    chart-operator.giantswarm.io/force-helm-upgrade: "true"
+  labels:
+    app-operator.giantswarm.io/version: 0.0.0
+  name: aws-load-balancer-controller
+  namespace: giantswarm
+spec:
+  catalog: control-plane-catalog
+  config:
+    configMap:
+      name: aws-load-balancer-controller-konfiguration
+      namespace: giantswarm
+    secret:
+      name: aws-load-balancer-controller-konfiguration
+      namespace: giantswarm
+  kubeConfig:
+    inCluster: true
+  name: aws-load-balancer-controller
+  namespace: giantswarm
+  version: 2.2.1

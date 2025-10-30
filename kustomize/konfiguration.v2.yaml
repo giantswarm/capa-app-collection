@@ -35,6 +35,10 @@ spec:
         variables:
           - name: app
             value: athena
+      aws-load-balancer-controller:
+        variables:
+          - name: app
+            value: aws-load-balancer-controller
       aws-resolver-rules-operator:
         variables:
           - name: app
