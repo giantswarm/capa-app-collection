@@ -83,10 +83,6 @@ spec:
         variables:
           - name: app
             value: dashboards
-      deletion-blocker-operator:
-        variables:
-          - name: app
-            value: deletion-blocker-operator
       dex-app:
         variables:
           - name: app
