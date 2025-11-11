@@ -27,7 +27,6 @@ resources:
 - grafana.yaml
 - happa.yaml
 - ingress-nginx.yaml
-- irsa-operator.yaml
 - keda.yaml
 - konfiguration.v2.yaml
 - konfigure-operator.yaml

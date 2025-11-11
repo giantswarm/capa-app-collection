@@ -135,10 +135,6 @@ spec:
         variables:
           - name: app
             value: ingress-nginx
-      irsa-operator:
-        variables:
-          - name: app
-            value: irsa-operator
       keda:
         variables:
           - name: app
