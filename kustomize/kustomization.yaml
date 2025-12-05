@@ -1,57 +1,58 @@
 resources:
-- app-admission-controller.yaml
-- app-exporter.yaml
-- app-operator.yaml
-- athena.yaml
-- aws-load-balancer-controller-bundle.yaml
-- aws-resolver-rules-operator.yaml
-- aws-vpc-operator.yaml
-- capa-iam-operator.yaml
-- cloudnative-pg.yaml
-- cluster-api-events.yaml
-- cluster-api-provider-aws.yaml
-- cluster-api.yaml
-- cluster-apps-operator.yaml
-- cluster-cleaner.yaml
-- dashboards.yaml
-- dex-app.yaml
-- dex-operator.yaml
-- encryption-provider-operator.yaml
-- etcd-backup-operator.yaml
-- event-exporter-app.yaml
-- falco.yaml
-- fluent-logshipping-app.yaml
-- gateway-api-bundle.yaml
-- grafana.yaml
-- happa.yaml
-- ingress-nginx.yaml
-- keda.yaml
-- konfiguration.v2.yaml
-- konfigure-operator.yaml
-- kube-downscaler.yaml
-- kyverno-policies-connectivity.yaml
-- kyverno-policies-dx.yaml
-- kyverno-policies-observability.yaml
-- kyverno-policies-ux.yaml
-- logging-operator.yaml
-- loki.yaml
-- mimir.yaml
-- oauth2-proxy.yaml
-- object-storage-operator.yaml
-- observability-operator.yaml
-- observability-platform-api.yaml
-- organization-operator.yaml
-- plugin-barman-cloud.yaml
-- prometheus-remotewrite.yaml
-- prometheus-rules.yaml
-- rbac-operator.yaml
-- silence-operator.yaml
-- sloth-rules.yaml
-- sloth.yaml
-- starboard-exporter.yaml
-- teleport-operator.yaml
-- teleport-tbot.yaml
-- tempo.yaml
-- trivy-operator.yaml
-- trivy.yaml
-- upgrade-schedule-operator.yaml
+  - app-admission-controller.yaml
+  - app-exporter.yaml
+  - app-operator.yaml
+  - athena.yaml
+  - aws-load-balancer-controller-bundle.yaml
+  - aws-resolver-rules-operator.yaml
+  - aws-vpc-operator.yaml
+  - capa-iam-operator.yaml
+  - cloudnative-pg.yaml
+  - cluster-api-events.yaml
+  - cluster-api-provider-aws.yaml
+  - cluster-api.yaml
+  - cluster-apps-operator.yaml
+  - cluster-cleaner.yaml
+  - dashboards.yaml
+  - dex-app.yaml
+  - dex-operator.yaml
+  - encryption-provider-operator.yaml
+  - etcd-backup-operator.yaml
+  - event-exporter-app.yaml
+  - falco.yaml
+  - fluent-logshipping-app.yaml
+  - gateway-api-bundle.yaml
+  - grafana.yaml
+  - happa.yaml
+  - ingress-nginx.yaml
+  - keda.yaml
+  - konfiguration.v2.yaml
+  - konfigure-operator.yaml
+  - kube-downscaler.yaml
+  - kyverno-policies-connectivity.yaml
+  - kyverno-policies-dx.yaml
+  - kyverno-policies-observability.yaml
+  - kyverno-policies-ux.yaml
+  - logging-operator.yaml
+  - loki.yaml
+  - mimir.yaml
+  - oauth2-proxy.yaml
+  - object-storage-operator.yaml
+  - observability-operator.yaml
+  - observability-platform-api.yaml
+  - organization-operator.yaml
+  - plugin-barman-cloud.yaml
+  - prometheus-remotewrite.yaml
+  - prometheus-rules.yaml
+  - rbac-operator.yaml
+  - silence-operator.yaml
+  - sloth-rules.yaml
+  - sloth.yaml
+  - starboard-exporter.yaml
+  - teleport-operator.yaml
+  - teleport-tbot.yaml
+  - tempo.yaml
+  - trivy-operator.yaml
+  - trivy.yaml
+  - upgrade-schedule-operator.yaml
+  - ./helmreleases
