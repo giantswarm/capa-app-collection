@@ -8,7 +8,7 @@ metadata:
   name: cluster-api-provider-aws
   namespace: giantswarm
 spec:
-  catalog: control-plane-catalog
+  catalog: control-plane-test-catalog
   config:
     configMap:
       name: cluster-api-provider-aws-konfiguration
@@ -20,4 +20,4 @@ spec:
     inCluster: true
   name: cluster-api-provider-aws
   namespace: giantswarm
-  version: 2.35.1
+  version: '2.35.0-5df17b9fe0a5020b1057e8573d47f8e9578cc9ea '
