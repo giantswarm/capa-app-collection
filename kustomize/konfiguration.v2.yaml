@@ -35,10 +35,6 @@ spec:
         variables:
           - name: app
             value: athena
-      aws-lb-controller-bundle:
-        variables:
-          - name: app
-            value: aws-lb-controller-bundle
       aws-load-balancer-controller-bundle:
         variables:
           - name: app
