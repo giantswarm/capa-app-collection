@@ -3,6 +3,7 @@ resources:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
+- aws-lb-controller-bundle.yaml
 - aws-load-balancer-controller-bundle.yaml
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
