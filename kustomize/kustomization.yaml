@@ -1,6 +1,5 @@
 resources:
 - app-admission-controller.yaml
-- app-exporter.yaml
 - athena.yaml
 - aws-lb-controller-bundle.yaml
 - aws-resolver-rules-operator.yaml
