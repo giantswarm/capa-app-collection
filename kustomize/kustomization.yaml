@@ -1,5 +1,4 @@
 resources:
-- athena.yaml
 - aws-lb-controller-bundle.yaml
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
