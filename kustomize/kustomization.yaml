@@ -3,7 +3,6 @@ resources:
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
-- cloudnative-pg.yaml
 - cluster-api-events.yaml
 - cluster-api-provider-aws.yaml
 - cluster-api.yaml
