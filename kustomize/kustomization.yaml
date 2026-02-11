@@ -9,7 +9,6 @@ resources:
 - deletion-blocker-operator.yaml
 - dex-app.yaml
 - dex-operator.yaml
-- encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
 - event-exporter-app.yaml
 - falco.yaml
