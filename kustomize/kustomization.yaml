@@ -8,7 +8,6 @@ resources:
 - dex-operator.yaml
 - etcd-backup-operator.yaml
 - event-exporter-app.yaml
-- falco.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - teleport-tbot.yaml
