@@ -9,7 +9,6 @@ resources:
 - etcd-backup-operator.yaml
 - event-exporter-app.yaml
 - falco.yaml
-- gateway-api-bundle.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - teleport-tbot.yaml
