@@ -4,7 +4,6 @@ resources:
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
 - cluster-api-provider-aws.yaml
-- deletion-blocker-operator.yaml
 - dex-app.yaml
 - dex-operator.yaml
 - etcd-backup-operator.yaml
