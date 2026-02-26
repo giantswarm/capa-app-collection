@@ -12,4 +12,3 @@ resources:
 - teleport-tbot.yaml
 - tempo.yaml
 - trivy-operator.yaml
-- trivy.yaml
