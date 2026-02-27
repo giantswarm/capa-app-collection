@@ -1,5 +1,4 @@
 resources:
-- aws-lb-controller-bundle.yaml
 - aws-resolver-rules-operator.yaml
 - aws-vpc-operator.yaml
 - capa-iam-operator.yaml
